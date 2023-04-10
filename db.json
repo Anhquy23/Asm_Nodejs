@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "anhquys",
+      "price": "12345",
+      "id": "BSthL5k"
+    },
+    {
+      "name": "quý",
+      "price": "2345",
+      "id": "m6tkQLo"
+    },
+    {
+      "name": "Qúy",
+      "price": "123456",
+      "id": "mTsUjpz"
+    },
+    {
+      "name": "quý1",
+      "price": "12345",
+      "id": "dbvQDpE"
+    }
+  ]
+}
